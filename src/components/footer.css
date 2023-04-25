@@ -1,0 +1,7 @@
+h6 {
+    @apply mb-5
+}
+
+strong{
+    @apply block mb-3
+}
